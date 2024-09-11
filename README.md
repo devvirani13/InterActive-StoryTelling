@@ -1,3 +1,12 @@
+title: InterActiveStoryTeller
+emoji: 🤗
+colorFrom: indigo
+colorTo: pink
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: app.py
+pinned: false
+
 # Interactive Storyteller with Text-to-Text and Text-to-Image Models
 
 Welcome to our GitHub repository for the Interactive Storyteller project! In this project, we leverage the power of text-to-text and text-to-image large language models to create immersive and interactive stories.
