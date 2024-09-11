@@ -1,3 +1,4 @@
+---
 title: InterActiveStoryTeller
 emoji: 🤗
 colorFrom: indigo
@@ -6,6 +7,7 @@ sdk: streamlit
 sdk_version: 1.38.0
 app_file: app.py
 pinned: false
+---
 
 # Interactive Storyteller with Text-to-Text and Text-to-Image Models
 
